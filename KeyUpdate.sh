@@ -1,7 +1,7 @@
 #!/bin/bash
 ################################################################
 # Title:.......KeyUpdate                                       #
-# Author:......audi06_19    2018/2019                          #
+# Author:......putra01   2018/2019                          #
 # Support:.....www.dreamosat-forum.com                         #
 # E-Mail:......admin@dreamosat-forum.com                       #
 # Date:........26.11.2018                                      #
@@ -11,7 +11,7 @@ FIN="==================================================";
 echo $FIN;
 echo ".....:: LÜTFEN BEKLEYİNİZ .... PLEASE WAIT ::.....";
 ##################################################
-URL="https://raw.githubusercontent.com/audi06/SoftCam.Key_Serjoga/master";
+URL="https://raw.githubusercontent.com/softcam-key/SoftCamKey_PutraSumatera/master";
 # Files
 TMP=`mktemp -d`
 cd ${TMP}
@@ -56,7 +56,7 @@ echo "SoftCam.Key file sent. $check;";
 echo "";
 echo "SoftCam.Key updated. Do not forget to restart the EMU. good looking ...";
 echo "";
-echo "::: Thank you: by Serjoga :::";
+echo "::: Thank you: by putrasumatera :::";
 echo "Support: www.dreamosat-forum.com ";
 echo $FIN
 rm -rf ${TMP} > /dev/null;
