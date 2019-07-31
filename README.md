@@ -9,7 +9,7 @@ Sony Picture (105.0°E) PowerVu
 </pre>
 
 <p><strong><span style="color: red">enigma2-plugin-extensions-KeyUpdate_.tar.gz</span></strong></p>
-<p><strong><span style="color: red">enigma2-plugin-extensions-KeyUpdate_20181213-r1.4_all.deb</span></strong></p>
+<p><strong><span style="color: red">  </span></strong></p>
 <p><strong>Plugin author</strong> <strong><span style="color:#FF0000;">audi06_19<br></span></strong><br> Plugin for my SoftCam.Key also last update you found in Git <a href="https://github.com/softcam-key/SoftCam.Key_PutraSumatera/commits/master/">Update SoftCam.Key · softcam-key/SoftCam.Key_PutraSumatera@679bf98 · GitHub</a></p>
 <p><br></p>
 <p>File SoftCam.Key after instaled you found in /usr/keys and /etc/tuxbox/config</p>
@@ -27,7 +27,7 @@ Sony Picture (105.0°E) PowerVu
 <p><br></p>
 <p>On my DM 920 and image OpenPli HomeBuild all is ok with out this commands</p>
 <p><span style="color:#000080;"><br></span></p>
-<p><strong><span style="color:#000080;">Many Thanks </span><span style="color:#FF0000;">audi06_19</span><span style="color:#000080;"></span></strong><br></p>
+<p><strong><span style="color:#000080;">Many Thanks </span><span style="color:#FF0000;">putra01</span><span style="color:#000080;"></span></strong><br></p>
 
 <img src="http://www.hizliresimyukle.com/images/2018/12/03/screenshot.jpg" alt="screenshot.jpg" border="0">
 <img src="http://www.hizliresimyukle.com/images/2018/12/03/screenshot1.jpg" alt="screenshot1.jpg" border="0">
